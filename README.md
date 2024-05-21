@@ -1,4 +1,4 @@
-![MasterHead](![image](https://github.com/Haythem97/Haythem97/assets/61424960/b0b03c78-28c4-4b01-95f5-99218863501d))
+![MasterHead](![image](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsv2pxc2ocho6qa4xlq95.gif))
 <h1 align="center">Hi 👋, I'm Haythem Ben Hariz</h1>
 <h3 align="center">A passionate Web & Mobile developer 👨‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif"/>
